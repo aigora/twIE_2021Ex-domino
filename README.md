@@ -1,11 +1,13 @@
-# [Título del trabajo]
+DOMINO
+El proyecto consistirá en poder jugar al domino contra un bot, o que puedan jugar diversos jugadores(con un maximo de 4 jugadores).
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+Participantes:
+Diego Sánchez Rey @diego22222
 
-## Integrantes del equipo
+Objetivos del trabajo:
+-Introducir datos del jugador y que se guarde para futuras partidas.
+-Crear un menu para seleccionar el modo de juego.
+-Codigo del juego con estructuras, funciones,ficheros...
+-Una vez acabada la partida que salga un menú con diversas opciones(reiniciar,menú inicial,salir)
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
 
-## Objetivos del trabajo
-
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
