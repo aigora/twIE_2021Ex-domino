@@ -17,14 +17,12 @@ printf("--------------------\n");
 // Presentamos como va a ser el tablero
 
 }
-int jugada(); // Pregunta que ficha quiere poner y por el lado donde quiera colocarla
-char fichas
-bool puede_poder_ficha_izq
-bool puede_poder_ficha_der
-char poner_ficha_izq
-char poner_ficha_der
-
-
+    int jugada(); // Pregunta que ficha quiere poner y por el lado donde quiera colocarla
+    char fichas
+    bool puede_poder_ficha_izq
+    bool puede_poder_ficha_der
+    char poner_ficha_izq
+    char poner_ficha_der
 
     int opcion=0;
 
@@ -32,5 +30,4 @@ char poner_ficha_der
     scanf("%d",&opcion);
 
     return opcion;
-
 }
