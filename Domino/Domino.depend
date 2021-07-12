@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626050388 source:c:\users\diego\onedrive - universidad politécnica de madrid\informÁtica\twie_2021ex-domino\domino\main.c
+	<stdio.h>
+	<stdlib.h>
+
