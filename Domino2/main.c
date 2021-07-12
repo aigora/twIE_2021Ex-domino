@@ -1,7 +1,5 @@
-
 #include <stdio.h>
 #include <stdlib.h>
-
 
 int main() //funcion principal
 {
@@ -10,13 +8,9 @@ int main() //funcion principal
     opcion = menu();
     if (opcion==1){
         printf("Ha seleccionado la opcion de Jugar contra un bot\n");
-
-
     }
      else if (opcion==2){
         printf("Ha seleccionado la opcion de Jugar varios jugadores\n");
-
-
     }
     else {
         printf("La opcion seleccionada es incorrecta\n");
