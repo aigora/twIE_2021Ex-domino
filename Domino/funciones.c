@@ -2,10 +2,9 @@ int menu() //función menú
 {
 char fichas [];
 {
-    fichas
-    printf ("")
-    int
-    printf("Escriba el")
+    fichas;
+    printf ("");
+    printf("Escriba el");
 }
 
 void tablero()
